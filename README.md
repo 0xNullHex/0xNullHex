@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [EmailServiceCreator](https://github.com/xSnipeRGh0sTx/ProtonEmailCreator)
 
-- 🌱 I’m currently learning **Networks and Operating Systems**
+- 🌱 I’m currently learning **Compilers Design**
 
 - 👯 I’m working with this great Guy [Mehdi ESSALEHI](https://github.com/GitHubRandom)
 
