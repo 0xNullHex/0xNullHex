@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xsnipergh0stx&label=Profile%20views&color=0e75b6&style=flat" alt="xsnipergh0stx" /> </p>
 
-- 🔭 I’m currently working on [EmailServiceCreator](https://github.com/xSnipeRGh0sTx/ProtonEmailCreator)
+- 🔭 I’m Computer Science and Technology Student.
 
-- 🌱 I’m currently learning **Data Science and Machine learning using Python**
+- 🌱 I’m currently learning **Data Science and Machine learning using Python**.
 
-- 👯 I’m working with this great Guy [Mehdi ESSALEHI](https://github.com/GitHubRandom)
+- 👯 I’m working with this great Guy [Mehdi ESSALEHI](https://github.com/GitHubRandom).
 
-- 📫 How to reach me **Boucittamansour@gmail.com**
+- 📫 How to reach me **Boucittamansour@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
