@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xsnipergh0stx&label=Profile%20views&color=0e75b6&style=flat" alt="xsnipergh0stx" /> </p>
 
-- 🔭 I’m Computer Science and Technology Student.
+- 🔭 I’m a Computer Science and Technology Student.
 
 - 🌱 I’m currently learning **Data Science and Machine learning using Python**.
 
