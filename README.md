@@ -1,7 +1,7 @@
 # 💫 About Me :
 ### \<foo\>  I am a Computer Science Student  \</bar\>
 
-🛠️ I'm currently working on a backend messaging platform using spring.\
+- [x] 🛠️ I'm currently working on a backend messaging platform using spring.\
 🧪 Studying Machine learning stuff  ( AI enthusiasts I see YOU 😃 ).\
 📭 Feel free to contact me for help || collab.
 
